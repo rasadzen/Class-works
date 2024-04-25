@@ -20,7 +20,7 @@ Kuriamos ir modifikuojamos duomenų bazės. Vykdomos užklausos duomenų analize
 ___________________________________________________
 **Technologijos:**
 
-Python, SQL
+🐍💻✨ Python, SQL
 
 **Bibliotekos:**
 
