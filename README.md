@@ -9,6 +9,12 @@ Class-works skiltis skirta saugoti ir dalintis darbais bei užduotimis, kurias a
 
 OOP pagalba sukurtos sistemos, leidžiančios valdyti restorano, blogo sistemas, tai pat galimybė skaičiuoti temperatūros vidurkį miestuse.
 
+
+**<a href=https://github.com/rasadzen/Class-works/tree/main/WebScraping> Tinklalapio nuskaitymas(WebScraping)</a>**
+
+Automatizuotai gaunami duomenys iš interneto svetainių, naudojant BeautifulSoup (BS4), Selenium bibliotekas.
+
+
 **Technologijos:**
 
 Python, SQL
