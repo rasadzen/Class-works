@@ -14,7 +14,9 @@ OOP pagalba sukurtos sistemos.
 
 Automatizuotai gaunami duomenys iš interneto svetainių, naudojant BeautifulSoup (BS4), Selenium bibliotekas.
 
+**<a href=https://github.com/rasadzen/Class-works/tree/main/Databases> ⩥  Duomenų bazės(SQL)</a>**
 
+Kuriamos ir modifikuojamos duomenų bazės. Vykdomos užklausos duomenų analizei ir paieškai.
 ___________________________________________________
 **Technologijos:**
 
