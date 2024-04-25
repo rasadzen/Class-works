@@ -7,7 +7,7 @@ Class-works skiltis skirta saugoti ir dalintis darbais bei užduotimis, kurias a
 
 **<a href=https://github.com/rasadzen/Class-works/tree/main/OOP> Objektinis programavimas(OOP)</a>**
 
-OOP pagalba sukurtos sistemos, leidžiančios valdyti restorano, blogo sistemas, tai pat galimybė skaičiuoti temperatūros vidurkį miestuse.
+OOP pagalba sukurtos sistemos.
 
 
 **<a href=https://github.com/rasadzen/Class-works/tree/main/WebScraping> Tinklalapio nuskaitymas(WebScraping)</a>**
