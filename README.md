@@ -2,7 +2,7 @@
 
 **Apie**
 
-Class-works skiltis skirta saugoti ir dalintis darbais bei užduotimis, kurias atlikau kurso metu. Čia rasite įvairias užduotis, kurios padėjo man įgyti įvairių programavimo ir informacinių technologijų įgūdžių.
+Class-works skiltis skirta saugoti ir dalintis darbais bei užduotimis, kurias atlikau kurso metu (DAR NAUJINAMA). Čia rasite įvairias užduotis, kurios padėjo man įgyti įvairių programavimo ir informacinių technologijų įgūdžių.
 
 
 **<a href=https://github.com/rasadzen/Class-works/tree/main/OOP> ⩥  Objektinis programavimas(OOP)</a>**
