@@ -16,21 +16,13 @@ Automatizuotai gaunami duomenys iš interneto svetainių, naudojant BeautifulSou
 
 **<a href=https://github.com/rasadzen/Class-works/tree/main/Databases> ⩥  Duomenų bazės(SQL)</a>**
 
-Kuriamos ir modifikuojamos duomenų bazės. Vykdomos užklausos duomenų analizei ir paieškai.
+Kuriamos ir modifikuojamos duomenų bazės SQLite ir postgreSQL pagalba. Vykdomos užklausos duomenų analizei ir paieškai.
+
+**<a href=https://github.com/rasadzen/Class-works/tree/main/MachineLearning> ⩥  Machine learning</a>**
+
+
 ___________________________________________________
-**Technologijos:**
 
-🐍💻✨ Python, SQL
-
-**Bibliotekos:**
-
-Requests
-
-BeautifulSoup (BS4)
-
-Selenium
-
-Pandas
 
 
 
